@@ -179,7 +179,6 @@ yarn-error.log*
 # Specific to this project
 # ========================================
 # Keep the certificate PDF but exclude other PDFs that might be generated
-*.pdf
 # But keep the certificate
 !*completion_certificate.pdf
 
